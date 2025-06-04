@@ -3,6 +3,6 @@ public class sample {
         int i = 2;
         int x = 3;
         int result = i+x;
-        System.out.println("result:"+ result);
+        System.out.println("result:" + result);
     }
 }
